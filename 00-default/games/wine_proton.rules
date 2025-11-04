@@ -472,6 +472,9 @@
 # https://store.steampowered.com/app/350070/Environmental_Station_Alpha/
 { "name": "Environmental Station Alpha.exe", "type": "Game" }
 
+https://store.steampowered.com/app/2144640/Endzone_2/
+{ "name": "Endzone2.exe", "type": "Game" }
+
 # https://store.epicgames.com/en-US/p/evil-dead-the-game
 { "name": "EvilDead-Win64-Shipping.exe", "type": "Game" }
 { "name": "EvilDead.exe", "type": "Game" }
