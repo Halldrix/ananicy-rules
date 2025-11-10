@@ -8,6 +8,10 @@
 
 ### A ###
 
+# Abiotic Factor
+# https://store.steampowered.com/app/427410
+{ "name": "AbioticFactor.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
 { "name": "AvP_Classic.exe", "type": "Game" }
 
@@ -574,6 +578,9 @@ https://store.steampowered.com/app/2144640/Endzone_2/
 # https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/
 { "name": "ffxiv_dx11.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
+{ "name": "freddys.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1680880/Forspoken/
 { "name": "FORSPOKEN.exe", "type": "Game" }
 
@@ -587,6 +594,14 @@ https://store.steampowered.com/app/2144640/Endzone_2/
 { "name": "HorizonForbiddenWest.exe", "type": "Game" }
 
 ### G ###
+
+# Gas Station Simulator
+# https://store.steampowered.com/app/1149620
+{ "name": "GSS2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/4000/Garrys_Mod/
+# Proton version of Garry's mod
+{ "name": "gmod.exe", "type": "Game" }
 
 # GenshinImpact International version
 { "name": "GenshinImpact.exe", "type": "Game" }
@@ -750,6 +765,9 @@ https://store.steampowered.com/app/2144640/Endzone_2/
 { "name": "InsurgencyClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "InsurgencyEAC.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
+{ "name": "isaac-ng.exe", "type": "Game" }
+
 ### J ###
 
 # Judge Dredd https://store.steampowered.com/app/3710
@@ -795,6 +813,9 @@ https://store.steampowered.com/app/2144640/Endzone_2/
 
 # https://store.steampowered.com/app/110800/LA_Noire/
 { "name": "LANoire.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3981100/Leaf_it_Alone/
+{ "name": "Leaf it Alone.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/500/Left_4_Dead/
 { "name": "left4dead.exe", "type": "Game" }
@@ -1081,6 +1102,10 @@ https://store.steampowered.com/app/2144640/Endzone_2/
 ### Q ###
 ### R ###
 
+# Ruined King: A League of Legends Story
+# https://store.steampowered.com/app/1276790
+{ "name": "RuinedKing.exe", "type": "Game" }
+
 # Rabbit and Steel https://store.steampowered.com/app/2132850/Rabbit_and_Steel/
 { "name": "RabbitSteel.exe", "type": "Game" }
 
@@ -1118,6 +1143,9 @@ https://store.steampowered.com/app/2144640/Endzone_2/
 # https://store.steampowered.com/app/1282100/REMNANT_II/
 { "name": "Remnant2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Remnant2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3241660/REPO/
+{ "name": "REPO.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard
 { "name": "re7.exe", "type": "Game" }
@@ -1423,6 +1451,10 @@ https://store.steampowered.com/app/2144640/Endzone_2/
 { "name": "Talos2.exe", "type": "Game" }
 
 ### T ###
+
+# Temtem: Swarm
+# https://store.steampowered.com/app/2510960
+{ "name": "TemtemSwarm.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
 { "name": "Card Shop Simulator.exe", "type": "Game" }
